@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kanhaiya
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning and SDE.
 - 🌱 I’m currently learning Machine 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
